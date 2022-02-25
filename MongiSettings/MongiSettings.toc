@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: MongiSettings
+## Notes: My own custom settings
+MongiSettings.lua
+MongiSettings.xml
